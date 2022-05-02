@@ -395,7 +395,10 @@ img {
   font-size: 2rem;
   margin-bottom: var(--mb-4);
 }
-
+.footer__subtitle {
+  font-size: 1.5rem;
+  margin-bottom: var(--mb-4);
+}
 .footer__social {
   margin-bottom: var(--mb-4);
 }
